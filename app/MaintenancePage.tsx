@@ -258,7 +258,7 @@ export default function MaintenancePage() {
         </div>
 
         <div className="mt-9 border-t border-slate-100 pt-6 text-xs text-slate-500">
-          © {new Date().getFullYear()} Hamilton Garden Inn &amp; Suites
+          © 2026 Hamilton Garden Inn &amp; Suites
           <p className="mt-2">
             Sorry for the inconvenience. We’ll be back very soon.
           </p>
